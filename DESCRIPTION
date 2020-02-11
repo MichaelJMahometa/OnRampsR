@@ -1,12 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-Package: PLIOnRampsR2
-=======
 Package: OnRampsR
->>>>>>> parent of 69cdfbc... Temporary "2" for naming...
-=======
-Package: OnRampsR2
->>>>>>> parent of bff4f4c... Better name change for PLI
 Type: Package
 Title: Collection of functions for The University of Texas OnRamps Statistics course.
 Version: 2.0
